@@ -1,0 +1,10 @@
+header {
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+    float: left;
+}
+
+header img {
+    float: left;
+}

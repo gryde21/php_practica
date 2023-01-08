@@ -1,0 +1,7 @@
+aside {
+    width: 29.2%;
+    min-height: 320px;
+    border: 1px solid black;
+    float: left;
+    margin-right: 4px;
+}

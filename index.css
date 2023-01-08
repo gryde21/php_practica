@@ -1,0 +1,7 @@
+section{
+    width: 70%;
+    min-height: 320px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+}
